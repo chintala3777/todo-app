@@ -2,7 +2,7 @@ from functions import get_read_file, get_write_file
 import time
 
 now = time.strftime("%b %d, %Y %H:%M:%S")
-print("it is", now)
+# print("it is", now)
 print(f"it is {now} ")
 
 while True:
