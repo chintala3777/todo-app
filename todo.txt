@@ -7,3 +7,5 @@ play chess
 play carrom
 sleep 4 hours
 chaitanya
+bring chicken
+do snigdha homework
