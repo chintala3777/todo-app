@@ -3,8 +3,8 @@ import PySimpleGUI as sg
 import time
 import os
 
-if os.path.exists("todos.txt"):
-    with open("todos.txt", "w") as file:
+if not os.path.exists("todos.txt"):
+    with open("todos.txt", 'w') as file:
         pass
 
 sg.theme('NeutralBlue')
