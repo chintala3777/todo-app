@@ -1,4 +1,4 @@
-FILEPATH = "todo.txt"
+FILEPATH = "todos.txt"
 
 
 def get_read_file(filepath=FILEPATH):
